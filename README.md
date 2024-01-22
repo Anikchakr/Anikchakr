@@ -1,4 +1,4 @@
-![logo](https://github.com/Anikchakr/Anikchakr/blob/main/IMG_20240104_165315_068.jpg)
+![logo](https://github.com/Anikchakr/Anikchakr/blob/main/IMG_20231206_142341_387.jpg)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=170">
 </p>
