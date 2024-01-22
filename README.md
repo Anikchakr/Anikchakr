@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker&show_icons=true&locale=en&layout=compact" alt="hacker" /></p>
 ## Contact me
 <p align="left">
-   <a href="https://EternalVortex.t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+   <a href="https://xzc_hacker.t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
