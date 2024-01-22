@@ -18,7 +18,7 @@
    <a href="https://xzc_hacker.t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@xcz_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@xcz_hacker" height="30" width="40" /></a>
+<a href="https://dev.to/@xzc_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@xcz_hacker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
